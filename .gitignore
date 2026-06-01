@@ -1,0 +1,45 @@
+# Virtual environment
+.venv/
+
+# Secrets and local env
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+
+# Type checkers / test / IDE
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.idea/
+.vscode/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Generated runtime data (keep data/users.json and data/courses.json tracked)
+data/chroma/
+data/audit/
+data/exports/
+data/compcoach.db
+data/*.db-journal
+
+# Logs (if written outside data/audit/)
+*.log

@@ -1,0 +1,122 @@
+[
+  {
+    "slug": "digcomp-professional-engagement-skill",
+    "title": "Professional Engagement: From Awareness to Practice",
+    "description": "Build practical skills for professional digital engagement, collaboration, and reflective practice.",
+    "summary": "This course helps educators move from awareness of professional digital engagement to consistent classroom practice. You will map your current collaboration habits, try structured reflection cycles with digital tools, and design a two-week plan to strengthen skill-based engagement with peers and students. Modules include peer observation protocols, portfolio evidence, and rubrics aligned to DigComp professional engagement.",
+    "url": "https://example.org/courses/professional-engagement-skill",
+    "domain": "digital_competences",
+    "area": "professional_engagement",
+    "dimension": "skill"
+  },
+  {
+    "slug": "digcomp-digital-resources-knowledge",
+    "title": "Curating and Evaluating Digital Resources",
+    "description": "Learn to find, evaluate, and organize digital learning resources effectively.",
+    "summary": "Develop knowledge of licensing, accessibility, and quality criteria for digital resources. Practice building shared resource banks, tagging metadata, and comparing OER repositories. Assessment focuses on justification of resource choices for diverse learners.",
+    "url": "https://example.org/courses/digital-resources-knowledge",
+    "domain": "digital_competences",
+    "area": "digital_resources",
+    "dimension": "knowledge"
+  },
+  {
+    "slug": "digcomp-teaching-learning-behaviour",
+    "title": "Active Digital Teaching Strategies",
+    "description": "Translate digital teaching intentions into observable classroom behaviours.",
+    "summary": "Experiment with blended activities, flipped segments, and collaborative docs. Track behaviour change through lesson study cycles and student feedback. Emphasis on consistent use of digital tools for facilitation rather than one-off demos.",
+    "url": "https://example.org/courses/teaching-learning-behaviour",
+    "domain": "digital_competences",
+    "area": "teaching_and_learning",
+    "dimension": "behaviour"
+  },
+  {
+    "slug": "digcomp-assessment-skill",
+    "title": "Digital Assessment Design Studio",
+    "description": "Design formative and summative assessments using digital tools.",
+    "summary": "Hands-on studio for rubrics, e-portfolios, and analytics-informed feedback. Covers authenticity, academic integrity, and adaptive pathways. Participants produce an assessment blueprint aligned to DigComp assessment competencies.",
+    "url": "https://example.org/courses/assessment-skill",
+    "domain": "digital_competences",
+    "area": "assessment",
+    "dimension": "skill"
+  },
+  {
+    "slug": "digcomp-empowering-students-attitude",
+    "title": "Student Agency in Digital Learning",
+    "description": "Foster attitudes that support learner autonomy and co-creation.",
+    "summary": "Reflect on beliefs about student ownership, choice, and self-regulation online. Case studies on participatory design and student-led projects. Goal: shift mindset toward empowering students as digital creators, not only consumers.",
+    "url": "https://example.org/courses/empowering-students-attitude",
+    "domain": "digital_competences",
+    "area": "empowering_students",
+    "dimension": "attitude"
+  },
+  {
+    "slug": "digcomp-facilitating-students-digital-skill",
+    "title": "Coaching Students' Digital Competences",
+    "description": "Build skills to scaffold students' DigComp development.",
+    "summary": "Practice micro-lessons, peer coaching, and progress monitoring for student digital skills. Includes differentiation strategies and safety briefings. Capstone: a facilitation plan mapped to weak student competency areas.",
+    "url": "https://example.org/courses/facilitating-students-digital-skill",
+    "domain": "digital_competences",
+    "area": "facilitating_students_digital_competences",
+    "dimension": "skill"
+  },
+  {
+    "slug": "ai-algorithms-knowledge",
+    "title": "Understanding AI Algorithms for Educators",
+    "description": "Conceptual foundations of ML and algorithms without heavy math.",
+    "summary": "Explains training data, models, overfitting, and limitations in plain language. Activities include interpreting model cards and classroom-safe analogies. Strengthens knowledge scores in AI algorithms for teachers and advanced students.",
+    "url": "https://example.org/courses/ai-algorithms-knowledge",
+    "domain": "ai_competences",
+    "area": "algorithms",
+    "dimension": "knowledge"
+  },
+  {
+    "slug": "ai-prompting-data-literacy-skill",
+    "title": "Prompt Engineering and Data Literacy Lab",
+    "description": "Practical prompting and critical reading of AI outputs and data.",
+    "summary": "Iterative prompting exercises, bias checks, and source verification workflows. Participants build prompt libraries for teaching tasks and learn to document data provenance. Targets skill gaps in prompting and data literacy.",
+    "url": "https://example.org/courses/prompting-data-literacy-skill",
+    "domain": "ai_competences",
+    "area": "prompting_and_data_literacy",
+    "dimension": "skill"
+  },
+  {
+    "slug": "ai-techniques-behaviour",
+    "title": "Applying AI Techniques in the Classroom",
+    "description": "Move from trying AI once to structured, ethical classroom use.",
+    "summary": "Weekly behaviour challenges: summarization, differentiation aids, and feedback drafts with human-in-the-loop review. Includes reflection logs and peer accountability. Designed for low behaviour scores in ai_techniques.",
+    "url": "https://example.org/courses/ai-techniques-behaviour",
+    "domain": "ai_competences",
+    "area": "ai_techniques",
+    "dimension": "behaviour"
+  },
+  {
+    "slug": "ai-development-application-skill",
+    "title": "Building Simple AI-Assisted Learning Tools",
+    "description": "Introductory skill path for no-code and low-code AI applications.",
+    "summary": "Walkthrough of APIs, automation rules, and guardrails for small teaching apps. Emphasis on prototyping, testing with users, and iteration. Suitable for learners with very low development skill scores who want guided practice.",
+    "url": "https://example.org/courses/ai-development-application-skill",
+    "domain": "ai_competences",
+    "area": "ai_development_and_application",
+    "dimension": "skill"
+  },
+  {
+    "slug": "ai-ethics-attitude",
+    "title": "Ethical AI Mindsets for Education",
+    "description": "Develop attitudes grounded in fairness, transparency, and responsibility.",
+    "summary": "Scenario-based discussions on bias, consent, and acceptable use policies. Participants articulate personal ethical principles and institutional alignment. Addresses weak ethics attitude and behaviour dimensions.",
+    "url": "https://example.org/courses/ai-ethics-attitude",
+    "domain": "ai_competences",
+    "area": "ethics",
+    "dimension": "attitude"
+  },
+  {
+    "slug": "ai-social-implications-knowledge",
+    "title": "AI and Society: Implications for Schools",
+    "description": "Knowledge-focused course on labour, equity, and environmental impacts of AI.",
+    "summary": "Seminar readings on automation, digital divide, and environmental costs. Synthesis assignments connect societal trends to local school policy. Builds knowledge for social_implications competency area.",
+    "url": "https://example.org/courses/ai-social-implications-knowledge",
+    "domain": "ai_competences",
+    "area": "social_implications",
+    "dimension": "knowledge"
+  }
+]

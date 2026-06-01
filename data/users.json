@@ -1,0 +1,168 @@
+[
+  {
+    "username": "student_x",
+    "initial_password": "coach123",
+    "display_name": "Student X",
+    "profile": {
+      "digital_competences": {
+        "professional_engagement": {
+          "attitude": 4.0,
+          "behaviour": 3.5,
+          "knowledge": 3.8,
+          "skill": 2.8
+        },
+        "digital_resources": {
+          "attitude": 5.0,
+          "behaviour": 4.2,
+          "knowledge": 4.8,
+          "skill": 5.0
+        },
+        "teaching_and_learning": {
+          "attitude": 4.8,
+          "behaviour": 4.0,
+          "knowledge": 4.5,
+          "skill": 4.0
+        },
+        "assessment": {
+          "attitude": 4.0,
+          "behaviour": 4.2,
+          "knowledge": 4.5,
+          "skill": 3.8
+        },
+        "empowering_students": {
+          "attitude": 4.8,
+          "behaviour": 3.8,
+          "knowledge": 5.0,
+          "skill": 4.5
+        },
+        "facilitating_students_digital_competences": {
+          "attitude": 4.0,
+          "behaviour": 3.2,
+          "knowledge": 4.2,
+          "skill": 4.8
+        }
+      },
+      "ai_competences": {
+        "algorithms": {
+          "attitude": 4.0,
+          "behaviour": 3.5,
+          "knowledge": 3.8,
+          "skill": 2.8
+        },
+        "prompting_and_data_literacy": {
+          "attitude": 3.2,
+          "behaviour": 3.0,
+          "knowledge": 2.5,
+          "skill": 2.8
+        },
+        "ai_techniques": {
+          "attitude": 3.0,
+          "behaviour": 2.5,
+          "knowledge": 1.5,
+          "skill": 1.8
+        },
+        "ai_development_and_application": {
+          "attitude": 3.5,
+          "behaviour": 1.2,
+          "knowledge": 1.5,
+          "skill": 1.0
+        },
+        "ethics": {
+          "attitude": 2.0,
+          "behaviour": 2.0,
+          "knowledge": 2.0,
+          "skill": 2.0
+        },
+        "social_implications": {
+          "attitude": 2.2,
+          "behaviour": 2.0,
+          "knowledge": 1.2,
+          "skill": 1.0
+        }
+      }
+    }
+  },
+  {
+    "username": "teacher_anna",
+    "initial_password": "coach123",
+    "display_name": "Anna Teacher",
+    "profile": {
+      "digital_competences": {
+        "professional_engagement": {
+          "attitude": 3.5,
+          "behaviour": 3.0,
+          "knowledge": 3.2,
+          "skill": 2.5
+        },
+        "digital_resources": {
+          "attitude": 4.0,
+          "behaviour": 3.8,
+          "knowledge": 4.0,
+          "skill": 3.5
+        },
+        "teaching_and_learning": {
+          "attitude": 4.5,
+          "behaviour": 4.2,
+          "knowledge": 4.0,
+          "skill": 3.8
+        },
+        "assessment": {
+          "attitude": 3.8,
+          "behaviour": 3.5,
+          "knowledge": 3.8,
+          "skill": 3.2
+        },
+        "empowering_students": {
+          "attitude": 4.2,
+          "behaviour": 3.5,
+          "knowledge": 4.0,
+          "skill": 3.5
+        },
+        "facilitating_students_digital_competences": {
+          "attitude": 3.5,
+          "behaviour": 3.0,
+          "knowledge": 3.5,
+          "skill": 3.0
+        }
+      },
+      "ai_competences": {
+        "algorithms": {
+          "attitude": 2.5,
+          "behaviour": 2.0,
+          "knowledge": 2.2,
+          "skill": 2.0
+        },
+        "prompting_and_data_literacy": {
+          "attitude": 3.8,
+          "behaviour": 3.5,
+          "knowledge": 3.2,
+          "skill": 3.5
+        },
+        "ai_techniques": {
+          "attitude": 3.0,
+          "behaviour": 2.8,
+          "knowledge": 2.5,
+          "skill": 2.2
+        },
+        "ai_development_and_application": {
+          "attitude": 2.5,
+          "behaviour": 2.0,
+          "knowledge": 2.0,
+          "skill": 1.8
+        },
+        "ethics": {
+          "attitude": 4.0,
+          "behaviour": 3.8,
+          "knowledge": 3.5,
+          "skill": 3.2
+        },
+        "social_implications": {
+          "attitude": 3.5,
+          "behaviour": 3.0,
+          "knowledge": 2.8,
+          "skill": 2.5
+        }
+      }
+    }
+  }
+]
