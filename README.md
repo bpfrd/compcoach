@@ -101,6 +101,28 @@ When you leave a chat (via `/menu`), you are asked for **satisfaction** (1–5, 
 
 The coach is instructed via `prompts/navigation.md` to explain these steps if a student asks (without inventing commands like `q` in chat).
 
+## Architecture (Big Picture)
+
+```mermaid
+flowchart LR
+    U[User (Terminal)]
+
+    AUTH[Auth]
+    CHAT[Chat Core]
+    LLM[LLM Coach]
+    RAG[RAG Courses]
+    DB[(SQLite DB)]
+    AUD[(Audit Logs)]
+
+    U --> AUTH --> CHAT
+    CHAT --> LLM
+    LLM --> RAG
+    RAG --> LLM
+    CHAT --> DB
+    DB --> CHAT
+    CHAT --> AUD
+```
+
 ## Project layout
 
 ```
